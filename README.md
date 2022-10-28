@@ -1,5 +1,5 @@
 # iNoFake (v0.6)
-## É um programa que gera dados aleatórios para a criação de documentos e até perfis e identidades completas.
+## Esta é uma ferramenta que gera dados aleatórios para a criação de documentos e até perfis e identidades completas.
 Você pode usar algum dos parâmetros abaixo para ter o que deseja:<br>
 - -p	para gerar um perfil completo, com todas as informações abaixo.<br>
 - -d	para gerar dados isolados, usando os seguintes parâmetros:<br>

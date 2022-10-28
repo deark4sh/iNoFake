@@ -35,7 +35,7 @@ def cor_favorita():
     print(f"Cor Favorita:       {r.choice(cor)}")
 
 def manual():
-    print("""iNoFake (v0.6) é um programa que gera dados aleatórios para a criação de documentos e até perfis/identidades completas.
+    print("""iNoFake (v0.6) é uma ferramenta que gera dados aleatórios para a criação de documentos e até perfis/identidades completas.
 Você pode usar algum dos parâmetros abaixo para ter o que deseja:
 -p	para gerar um perfil completo, com todas as informações abaixo.
 -d	para gerar dados isolados, usando os seguintes parâmetros:
